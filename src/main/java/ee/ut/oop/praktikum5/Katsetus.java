@@ -11,13 +11,18 @@ public class Katsetus {
         Vaateratas vaateratas = new Vaateratas();
         Lasketiir lasketiir = new Lasketiir();
         LõbustavKloun lõbustavKloun = new LõbustavKloun(new Kloun("Kristen"));
+        VanuseKontrollija vanuseKontrollija = new VanuseKontrollija(15, lasketiir);
 //        List<Lõbustus> lõbustused = new ArrayList<>();
 //        lõbustused.add(vaateratas);
 //        lõbustused.add(lasketiir);
 //        List<Lõbustus> lõbustused = Arrays.asList(vaateratas, lasketiir);
-        List<Lõbustus> lõbustused = List.of(vaateratas, lasketiir, lõbustavKloun);
+        List<Lõbustus> lõbustused = List.of(vaateratas, lõbustavKloun, vanuseKontrollija);
         Lõbustuspark lõbustuspark = new Lõbustuspark(lõbustused);
-        Külastaja külastaja = new Külastaja();
+        Külastaja külastaja = new Külastaja(16);
         lõbustuspark.alustaSeiklust(külastaja);
+
+        Külastaja külastaja2 = new Külastaja(14);
+
+        lõbustuspark.alustaSeiklust(külastaja2);
     }
 }

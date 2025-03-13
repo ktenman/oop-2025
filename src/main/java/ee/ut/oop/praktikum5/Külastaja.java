@@ -5,9 +5,15 @@ import java.util.List;
 
 public class Külastaja {
     private List<String> külastuseKirjeldused;
+    private int vanus;
 
-    public Külastaja() {
+    public int getVanus() {
+        return vanus;
+    }
+
+    public Külastaja(int vanus) {
         this.külastuseKirjeldused = new ArrayList<>();
+        this.vanus = vanus;
     }
 
     public void lisaKirjeldus(String sõne) {
