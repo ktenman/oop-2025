@@ -1,0 +1,7 @@
+Kelluke; A; Joosep
+Valge klaar; B; Teele
+Tarhun; A; Jaan
+Mõmmi; C; Joosep
+Kelluke; A; Joosep
+Valge klaar; B; Teele
+Tarhun; D; Joosep

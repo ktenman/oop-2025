@@ -1,0 +1,5 @@
+Lenovo;kiirtöö@2024-04-21T14:22:42
+ML;kiirtöö;monitoriga@2024-04-21T14:08:09
+Ordi;tavatöö@2024-04-21T12:56:11
+Ordi@2024-04-21T14:00:23
+Lenovo;tavatöö@2024-04-21T12:12:12
