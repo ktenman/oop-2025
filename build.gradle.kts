@@ -3,7 +3,7 @@ import java.nio.charset.StandardCharsets
 group = "ee.ut"
 version = "0.0.1-SNAPSHOT"
 
-val assertjCoreVersion = "3.26.3"
+val assertjCoreVersion = "3.27.3"
 val junitJupiterVersion = "5.11.0"
 val jsoupVersion = "1.18.1"
 val selenideVersion = "7.4.2"
