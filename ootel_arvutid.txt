@@ -1,5 +1,4 @@
-Lenovo;kiirtöö@2024-04-21T14:22:42
-ML;kiirtöö;monitoriga@2024-04-21T14:08:09
-Ordi;tavatöö@2024-04-21T12:56:11
-Ordi@2024-04-21T14:00:23
-Lenovo;tavatöö@2024-04-21T12:12:12
+ee.ut.oop.praktikum11.Arvuti@12a3a380
+ee.ut.oop.praktikum11.VäliseMonitorigaArvuti@29453f44
+ee.ut.oop.praktikum11.Arvuti@5cad8086
+ee.ut.oop.praktikum11.Arvuti@6e0be858
