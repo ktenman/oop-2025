@@ -9,7 +9,7 @@ jobs:
     name: 🧪 Test with Gradle
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5.0.0
+      - uses: actions/checkout@v6.0.2
         with:
           fetch-depth: 1
       - name: Set up JDK 21
