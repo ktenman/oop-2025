@@ -5,7 +5,7 @@ version = "0.0.1-SNAPSHOT"
 
 val assertjCoreVersion = "3.27.7"
 val junitJupiterVersion = "5.11.0"
-val jsoupVersion = "1.22.1"
+val jsoupVersion = "1.22.2"
 val selenideVersion = "7.14.0"
 
 plugins {
